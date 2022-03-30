@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b38b4cb12fe83ad44a0fd7ecb7b56fd3, type: 3}
+  m_Name: Player
+  m_EditorClassIdentifier: 
+  playerDefaultWeapon: 0
+  playerAssets:
+    playerSprite: {fileID: 21300000, guid: 56de60b482cc9564a9ebb37ecf133cfd, type: 3}
+  playerStats:
+    maximumLifeCount: 3
+    speed: 7
+  arsenalPerWeapon:
+  - playerWeapon: 0
+    playerWeaponIcon: {fileID: 21300000, guid: dea5391de056fe04ebd71e9d2c3d985d, type: 3}
+    arsenal: 1
+  - playerWeapon: 1
+    playerWeaponIcon: {fileID: 21300000, guid: a0972215156daef4288c26ccbdadf67e, type: 3}
+    arsenal: 2
+  - playerWeapon: 2
+    playerWeaponIcon: {fileID: 21300000, guid: 6e496fea26543d54793a3bb6eff29f1d, type: 3}
+    arsenal: 1
+  - playerWeapon: 3
+    playerWeaponIcon: {fileID: 21300000, guid: 1eda2cf8c26f57a4bb430d47f706e87e, type: 3}
+    arsenal: 0
