@@ -6,12 +6,10 @@ Unity Version: Unity 2019.4.20f1
 1. Architecture designed with MVC paradigm +++
 2. Three or more distinct consecutive levels, with increasing difficulty +++
 3. Custom soundtracks and SFX
+
 Reason(s):
-
 1. Creating games should at least follow a certain game design pattern to ensure its flexibility to change.
-
 2. It should be open for game designer to tweak its difficulty and have an easy way to input data and output it when needed.
-
 3. Audio is one of the way for the game to communicate to the player. It serves as a cue or a reason for the player to keep playing. Reference from the audio will be written below to the references.
 
 ** Extra Credit NOT Implemented **
@@ -19,6 +17,7 @@ Reason(s):
 1. Custom visuals and shaders ++
 2. Two-player, same screen local multiplayer ++
 3. Leaderboards with player names supplied at the end of the game +
+
 Reason(s):
 
 1. I highly want to implement some shader for the game. I'm very eager to learn it but, due to time-constraint and lack of knowledge, this technical game doesn't have any.
